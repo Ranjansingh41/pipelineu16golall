@@ -13,4 +13,5 @@ build:
     pull: true
     
   ci:
-      - go version  
+      - go version
+      - gvm --version
