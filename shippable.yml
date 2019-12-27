@@ -13,4 +13,6 @@ build:
     pull: true
     
   ci:
+  
       - go version
+      - printenv
